@@ -34,7 +34,7 @@ $res = $bs->update('Blobname',$json);
 
 ```
 
-Deleting a new blob
+Deleting a blob
 
 ```php
 $res = $bs->delete('Blobname',$json);
